@@ -23,6 +23,5 @@
   <a href="https://instagram.com/gabrielek.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriele789_kelly@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/gabriele-kelly-da-silva-3795171a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      ![Snake animation](https://github.com/gabrieleksilva/gabrieleksilva/blob/output/github-contribution-grid-snake.svg)
   </div>
 
